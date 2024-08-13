@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **byul3325@naver.com or byul3325@gmail.com**
 
+- 🙊	my github blog [git blog](https://byeol3325.github.io/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/sungho-moon-byeol3325" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sungho-moon-byeol3325" height="30" width="40" /></a>
