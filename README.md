@@ -3,15 +3,15 @@
 
 - I plan to continue uploading the projects I have done in the future.
 
-- 🌱 I’m currently learning **multi-modal, multi-camera, lidar**
+- 🌱 I’m currently learning **multi-modal, multi-camera, lidar.**
 
-- 👯 I’m looking to collaborate on **everything about computer vision**
+- 👯 I’m looking to collaborate on **everything about computer vision.**
 
-- 💬 Ask me about **everything about me**
+- 💬 Ask me about **everything about me.**
 
-- 📫 How to reach me **byul3325@naver.com or byul3325@gmail.com**
+- 📫 How to reach me **byul3325@naver.com or byul3325@gmail.com.**
 
-- 🙊	my github blog [git blog](https://byeol3325.github.io/)
+- 🙊	my github blog [git blog](https://byeol3325.github.io/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
