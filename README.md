@@ -21,7 +21,30 @@
 
 <details>
   <summary>Brief description of the projects involved 📚 </summary>
-  추가 예정
+1. 3D Building Exterior Reconstruction(KETI <img src="imgs/keti.png" alt="KETI" width="100" height="40"/>) - 20.08 ~ 20.12 
+- Lead Researcher (80% contribution)
+- 전반적인 모든 3D reconstruction 과정들 개발
+
+2. Robust monocular camera 3D object detection in various camera environments(Hyundai) - 21.03 ~ 22.06
+- Lead Researcher (70% contribution)
+- Developed data augmentation for images with varying camera rotations/translation.
+- Identified the causes of performance degradation, and developed 성능저하 방지하는 교정 알고리즘 개발
+
+3. Road Object Position/Speed Estimation Module Development - 22.08 ~ 22.12
+- Lead Researcher (80% contribution)
+- Road detection and warping, vehicle speed estimation and 성능향상 optimization
+
+4. Miltitary Scientific Surveillance System(육군본부) - 23.03 ~ 23.09
+5. AI 무기체계 시험평가 기준 설립(육군본부, 미국방부) - 23.03 ~ 24.06
+6. AI 시험평가 기준 모델 연구개발(육군본부) - 23.10 ~ 24.06
+7. 프로젝트 이름 찾기(휴비츠) - 24.06 ~ 24.12
+8. 프로젝트 이름 찾기(현대조선해양) - 24.09 ~ 24.11
+9. 알약 검출 및 인식(ETRI) - 24.09 ~ 24.12
+10. 프로젝트 이름 찾기(Honda) - 24.10 ~ 24.12
+11. 주행 사고 vlm(subaru) - 24.11. 25.01
+12. 구강암 검출 알고리즘 개발 - 24.11 ~ 24.12
+
+  
 </details>
 
 
