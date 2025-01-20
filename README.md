@@ -35,14 +35,44 @@
 - Road detection and warping, vehicle speed estimation and 성능향상 optimization
 
 4. Miltitary Scientific Surveillance System(육군본부) - 23.03 ~ 23.09
+- Performance Enhancement Officer (30% contribution)
+- TOD 카메라 정보를 활용하여 오탐지를 획기적으로 줄였음
+
 5. AI 무기체계 시험평가 기준 설립(육군본부, 미국방부) - 23.03 ~ 24.06
+- AI 시험평가 연구원 (30% contribution)
+- Goal : Develop new testing and evaluation standards for AI weapon systems, which differ significantly from traditional weapon systems.
+- Role : As an AI Test and Evaluation Researcher, collaborated with the U.S. Department of Defense, coordinated with the Ministry of National Defense, and conducted extensive research on AI weapon systems, including identifying requirements (Contribution 30%).
+- Achievements : Established initial standards for the Military Performance Certification Center (including dataset construction, baseline model development, and formulation of various strategies).
+
 6. AI 시험평가 기준 모델 연구개발(육군본부) - 23.10 ~ 24.06
+- Lead Researcher (60% contribution)
+- Goal : When introducing various AI weapon systems in the Army, create a military learning/test data set and build an AI model that serves as a standard.
+- Role : Developed an Auto-Labeler for military datasets, performed data cleansing and construction, and developed a baseline model for performance verification (Contribution 60%).
+- Achievements : Established initial standards for the Military Performance Certification Center(including dataset construction, baseline model development, and formulation of various strategies).
+
+
 7. 프로젝트 이름 찾기(휴비츠) - 24.06 ~ 24.12
+- Multi-Thread와 자료구조 개선을 통한 최적화 (기존 알고리즘 대비 최대 60% 속도 향상)
+
 8. 프로젝트 이름 찾기(현대조선해양) - 24.09 ~ 24.11
+- 개발자 (40% contribution)
+- 
+
 9. 알약 검출 및 인식(ETRI) - 24.09 ~ 24.12
+- Lead Researcher (80% contribution)
+- 추가적인 2D 알약 검출 알고리즘 학습없이 알약을 검출하고 어떠한 알약인지 인식하는 알고리즘 개발(Template matching, color 고려, warping 등)
+
 10. 프로젝트 이름 찾기(Honda) - 24.10 ~ 24.12
+- 
+- text -> 3D model, 3D model + text => 수정된 3D model
+
 11. 주행 사고 vlm(subaru) - 24.11. 25.01
+- 핵심 개발자 (40% contribution)
+- 시퀀스 이미지를 받아서 주행도중에 위험한 순간 주의를 하는 vlm 개발
+
 12. 구강암 검출 알고리즘 개발 - 24.11 ~ 24.12
+- 핵심 개발자 (80% contribution)
+- 정상 / 양성구강암 / 음성구강암을 segmentation 하는 알고리즘 개발
 
   
 </details>
