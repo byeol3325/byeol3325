@@ -23,7 +23,8 @@
   <summary>Brief description of the projects involved 📚 </summary>
 1. 3D Building Exterior Reconstruction(KETI <img src="imgs/keti.png" alt="KETI" width="100" height="40"/>) - 20.08 ~ 20.12 
 - Lead Researcher (80% contribution)
-- 전반적인 모든 3D reconstruction 과정들 개발
+- 목표 : 3D Reconstruction using monocular images
+- 역할 : 전반적인 모든 3D reconstruction 과정들 개발
 
 2. Robust monocular camera 3D object detection in various camera environments(Hyundai) - 21.03 ~ 22.06
 - Lead Researcher (70% contribution)
@@ -52,11 +53,14 @@
 
 
 7. 프로젝트 이름 찾기(휴비츠) - 24.06 ~ 24.12
-- Multi-Thread와 자료구조 개선을 통한 최적화 (기존 알고리즘 대비 최대 60% 속도 향상)
+- 핵심 개발자 (40% contribution)
+- 목표 : 
+- 역할 : Multi-Thread와 자료구조 개선을 통한 최적화 (기존 알고리즘 대비 최대 60% 속도 향상)
 
 8. 프로젝트 이름 찾기(현대조선해양) - 24.09 ~ 24.11
-- 개발자 (40% contribution)
-- 
+- 핵심 개발자 (40% contribution)
+- 목표 : 
+- 역할 : 원형격자 chess board를 통한 camera calibration 모듈 개발
 
 9. 알약 검출 및 인식(ETRI) - 24.09 ~ 24.12
 - Lead Researcher (80% contribution)
