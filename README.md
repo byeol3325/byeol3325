@@ -13,7 +13,7 @@
 
 - 🙊	my github blog [git blog](https://byeol3325.github.io/).
 
-- 👇 I have experience collaborating with companies here !!! **(About 2D/3D Object Detection, 3D Reconstruction(Bundle Adjustment, Pose Graph Optimization), On-board(memory & time optimization), Camera Calibration(using 1D/2D chessboard), AI ethics, AI module performance improvement in specific environment) ...)**
+- 👇 I have experience collaborating with companies here !!! **About 2D/3D Object Detection, 3D Reconstruction(Bundle Adjustment, Pose Graph Optimization), On-board(memory & time optimization), Camera Calibration(using 1D/2D chessboard), AI ethics, AI module performance improvement in specific environment ...**
 <a href="https://www.hyundai.com/" target="_blank" rel="noreferrer">
   <img src="imgs/hyundai_motor_company.png" alt="Hyundai Motor Company" width="80" height="40"/>
 </a> <a href="https://www.keti.re.kr/main/main.php" target="_blank" rel="noreferrer"> <img src="imgs/keti.png" alt="KETI" width="100" height="40"/> </a> <a href="https://www.etri.re.kr/intro.html" target="_blank" rel="noreferrer"> <img src="imgs/etri.png" alt="ETRI" width="120" height="40"/> </a> <a href="https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp" target="_blank" rel="noreferrer"> <img src="imgs/ministry_of_national_defense.png" alt="Ministry of National Defense" width="50" height="40"/> </a> <a href="https://www.army.mil.kr/sites/army/index.do" target="_blank" rel="noreferrer"> <img src="imgs/headquarters.png" alt="ROKA Headquarters Insignia" width="50" height="40"/> </a> <a href="https://www.defense.gov/" target="_blank" rel="noreferrer"> <img src="imgs/us_dod.png" alt="U.S Department of Defense logo" width="40" height="40"/> </a> <a href="https://www.hdksoe.co.kr/" target="_blank" rel="noreferrer"> <img src="imgs/hd_shipping.png" alt="HD Korea shipbuilding & Offshore Engineering" width="180" height="40"/> </a> <a href="https://www.huvitz.com/" target="_blank" rel="noreferrer"> <img src="imgs/huvitz.png" alt="Huvitz logo" width="120" height="40"/> </a> <a href="https://www.honda.co.jp/" target="_blank" rel="noreferrer"> <img src="imgs/honda.png" alt="honda logo" width="40" height="40"/> </a> <a href="https://www.subaru.com/" target="_blank" rel="noreferrer"> <img src="imgs/subaru.png" alt="subaru logo" width="40" height="40"/> </a> <a href="https://www.elith.co.jp/" target="_blank" rel="noreferrer"> <img src="imgs/elith.png" alt="eligh logo" width="120" height="40"/> </a>
@@ -22,21 +22,22 @@
 <details>
   <summary>Brief description of the projects involved 📚 </summary>
 1. 3D Building Exterior Reconstruction(KETI <img src="imgs/keti.png" alt="KETI" width="100" height="40"/>) - 20.08 ~ 20.12 
-- 목표 : 3D Reconstruction using monocular images
-- 역할 : (Lead Researcher, 80% contribution) sift/surf keypoint matching, 에피폴라라인 구하기, 카메라 간 관계 찾기, PnP, BA 등 전반적인 모든 3D reconstruction 과정들 개발
-- 성과 : monocular images들을 통한 3D reconstruction 모듈 개발
+- Goal : Build a 3D reconstruction module using monocular images.
+- Role : Lead Researcher (80% contribution) – Developed keypoint matching (SIFT/SURF), computed epipolar lines, estimated camera relationships, and implemented PnP & BA... etc. Worked on all major steps of the 3D reconstruction process.
+- Acheivement : Successfully developed a 3D reconstruction module using monocular images.
+
 
 2. Robust monocular camera 3D object detection in various camera environments(Hyundai) - 21.03 ~ 22.06
-- Lead Researcher (70% contribution)
-- 목표 : monocular camera 3D object detection이 카메라 환경에 따라 성능이 크게 저하되는 문제를 해결
-- 역할 : Developed data augmentation for images with varying camera rotations/translation, Identified the causes of performance degradation, and developed 성능저하 방지하는 교정 알고리즘 개발
-- 성과 : 성능 저하의 원인을 파악하였고 학습없이 ~ 수치 찾기
+- Goal : Solve the problem that monocular camera 3D object detection has significantly reduced performance depending on the camera environment.
+- Role : Lead Researcher (70% contribution) – Developed data augmentation for images with different camera angles, analyzed the causes of performance drops, and developed correction algorithms to prevent degradation.
+- Acheivement : Identified key reasons for performance degradation. Improved accuracy from 20% to 80% for a 3-degree angle difference and from 1% to 50% for a 5-degree angle difference. Results led to international patents and publications.
 
-3. Road Object Position/Speed Estimation Module Development - 22.08 ~ 22.12
-- Lead Researcher (80% contribution)
-- 목표 : CCTV 카메라 촬영 영상만을 활용하여 객체 위치 및 속도 추정 모듈 개발
-- 역할 : Road detection and warping, vehicle speed estimation and 성능향상 optimization
-- 성과 : 해당 데이터 셋 내에서 차량의 속도를 90%이상의 정확도로 검출하였음
+
+3. Development of car location and speed estimation module from CCTV - 22.08 ~ 22.12
+- Goal : Develop a module to estimate car position and speed using only CCTV video.
+- Role : Lead Researcher (80% contribution) - Developed on road detection and image warping, vehicle speed estimation, and optimized performance.
+- Acheivement : Achieved over 90% accuracy in vehicle speed estimation on the given dataset.
+
 
 4. Miltitary Scientific Surveillance System(육군본부) - 23.03 ~ 23.09
 - Performance Enhancement Officer (30% contribution)
