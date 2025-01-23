@@ -21,23 +21,30 @@
 
 <details>
   <summary>Brief description of the projects involved 📚 </summary>
-1. 3D Building Exterior Reconstruction(KETI <img src="imgs/keti.png" alt="KETI" width="100" height="40"/>) - 20.08 ~ 20.12 
-- Goal : Build a 3D reconstruction module using monocular images.
-- Role : Lead Researcher (80% contribution) – Developed keypoint matching (SIFT/SURF), computed epipolar lines, estimated camera relationships, and implemented PnP & BA... etc. Worked on all major steps of the 3D reconstruction process.
-- Acheivement : Successfully developed a 3D reconstruction module using monocular images.
+  
+### 1. **3D Building Exterior Reconstruction** (KETI) 📸 (Aug 2020 - Dec 2020)  
+- **Goal:** Develop a 3D reconstruction module using monocular images.  
+- **Role:** **Lead Researcher (80% contribution)** – Designed and implemented keypoint matching (SIFT/SURF), computed epipolar geometry, estimated camera relationships, and applied PnP & bundle adjustment (BA). Led the development of the full 3D reconstruction pipeline.  
+- **Achievement:** Successfully built a 3D reconstruction module that processes monocular images to generate 3D structures.  
 
+---
 
-2. Robust monocular camera 3D object detection in various camera environments(Hyundai) - 21.03 ~ 22.06
-- Goal : Solve the problem that monocular camera 3D object detection has significantly reduced performance depending on the camera environment.
-- Role : Lead Researcher (70% contribution) – Developed data augmentation for images with different camera angles, analyzed the causes of performance drops, and developed correction algorithms to prevent degradation.
-- Acheivement : Identified key reasons for performance degradation. Improved accuracy from 20% to 80% for a 3-degree angle difference and from 1% to 50% for a 5-degree angle difference. Results led to international patents and publications.
+### 2. **Robust Monocular Camera 3D Object Detection in Various Camera Environments** (Hyundai) 🎯 (Mar 2021 - Jun 2022)  
+- **Goal:** Improve the robustness of monocular camera-based 3D object detection, addressing significant performance degradation caused by varying camera environments.  
+- **Role:** **Lead Researcher (70% contribution)** – Developed data augmentation techniques to enhance model generalization across different camera angles, identified the root causes of performance degradation, and implemented correction algorithms to mitigate these effects.  
+- **Achievement:** Diagnosed key factors affecting model accuracy and significantly improved performance:
+  - Accuracy increased from **20% to 80%** for a **3-degree** angle variation.  
+  - Accuracy increased from **1% to 50%** for a **5-degree** angle variation.  
+  - Research findings contributed to **international patents and publications(CVPRw 2024)**.  
 
+---
 
-3. Development of car location and speed estimation module from CCTV - 22.08 ~ 22.12
-- Goal : Develop a module to estimate car position and speed using only CCTV video.
-- Role : Lead Researcher (80% contribution) - Developed on road detection and image warping, vehicle speed estimation, and optimized performance.
-- Acheivement : Achieved over 90% accuracy in vehicle speed estimation on the given dataset.
+### 3. **Development of Car Location and Speed Estimation Module Using CCTV Footage** (ETRI) 🚗📹 (Aug 2022 - Dec 2022)  
+- **Goal:** Develop a module capable of estimating vehicle position and speed solely from CCTV video data.  
+- **Role:** **Lead Researcher (80% contribution)** – Engineered road detection and image warping algorithms, developed vehicle speed estimation methods, and optimized overall system performance.  
+- **Achievement:** Achieved **over 90% accuracy** in vehicle speed estimation on the target dataset.  
 
+---
 
 4. Miltitary Scientific Surveillance System(육군본부) - 23.03 ~ 23.09
 - Performance Enhancement Officer (30% contribution)
