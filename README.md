@@ -22,22 +22,27 @@
 <details>
   <summary>Brief description of the projects involved 📚 </summary>
 1. 3D Building Exterior Reconstruction(KETI <img src="imgs/keti.png" alt="KETI" width="100" height="40"/>) - 20.08 ~ 20.12 
-- Lead Researcher (80% contribution)
 - 목표 : 3D Reconstruction using monocular images
-- 역할 : 전반적인 모든 3D reconstruction 과정들 개발
+- 역할 : (Lead Researcher, 80% contribution) sift/surf keypoint matching, 에피폴라라인 구하기, 카메라 간 관계 찾기, PnP, BA 등 전반적인 모든 3D reconstruction 과정들 개발
+- 성과 : monocular images들을 통한 3D reconstruction 모듈 개발
 
 2. Robust monocular camera 3D object detection in various camera environments(Hyundai) - 21.03 ~ 22.06
 - Lead Researcher (70% contribution)
-- Developed data augmentation for images with varying camera rotations/translation.
-- Identified the causes of performance degradation, and developed 성능저하 방지하는 교정 알고리즘 개발
+- 목표 : monocular camera 3D object detection이 카메라 환경에 따라 성능이 크게 저하되는 문제를 해결
+- 역할 : Developed data augmentation for images with varying camera rotations/translation, Identified the causes of performance degradation, and developed 성능저하 방지하는 교정 알고리즘 개발
+- 성과 : 성능 저하의 원인을 파악하였고 학습없이 ~ 수치 찾기
 
 3. Road Object Position/Speed Estimation Module Development - 22.08 ~ 22.12
 - Lead Researcher (80% contribution)
-- Road detection and warping, vehicle speed estimation and 성능향상 optimization
+- 목표 : CCTV 카메라 촬영 영상만을 활용하여 객체 위치 및 속도 추정 모듈 개발
+- 역할 : Road detection and warping, vehicle speed estimation and 성능향상 optimization
+- 성과 : 해당 데이터 셋 내에서 차량의 속도를 90%이상의 정확도로 검출하였음
 
 4. Miltitary Scientific Surveillance System(육군본부) - 23.03 ~ 23.09
 - Performance Enhancement Officer (30% contribution)
-- TOD 카메라 정보를 활용하여 오탐지를 획기적으로 줄였음
+- 목표 : AI 경계감시시스템 구축을 통해 오탐지/미탐지 감소 및 정탐지 향상
+- 역할 : TOD 카메라 정보(카메라로부터 절대 거리 가능)를 활용하여 오탐지를 획기적으로 줄였음
+- 성과 : 기존 대비 오탐지를 10% 줄였음
 
 5. AI 무기체계 시험평가 기준 설립(육군본부, 미국방부) - 23.03 ~ 24.06
 - AI 시험평가 연구원 (30% contribution)
@@ -55,29 +60,35 @@
 7. 프로젝트 이름 찾기(휴비츠) - 24.06 ~ 24.12
 - 핵심 개발자 (40% contribution)
 - 목표 : 
-- 역할 : Multi-Thread와 자료구조 개선을 통한 최적화 (기존 알고리즘 대비 최대 60% 속도 향상)
+- 역할 : Multi-Thread와 자료구조 개선을 통한 최적화
+- 성과 : 성능 저하 없이 기존 알고리즘 대비 최대 60% 속도 향상
 
 8. 프로젝트 이름 찾기(현대조선해양) - 24.09 ~ 24.11
 - 핵심 개발자 (40% contribution)
 - 목표 : 
 - 역할 : 원형격자 chess board를 통한 camera calibration 모듈 개발
+- 성과 : ~(수치 찾아두기)의 정확도로 원형 chess board 활용하는 camera calibration 모듈개발
 
-9. 알약 검출 및 인식(ETRI) - 24.09 ~ 24.12
+9. 알약 검출 및 인식(ETRI) - 24.09 ~ 24.12 => 문서 찾아보기
 - Lead Researcher (80% contribution)
-- 추가적인 2D 알약 검출 알고리즘 학습없이 알약을 검출하고 어떠한 알약인지 인식하는 알고리즘 개발(Template matching, color 고려, warping 등)
+- 목표 : 
+- 역할 : 추가적인 2D 알약 검출 알고리즘 학습없이 알약을 검출하고 어떠한 알약인지 인식하는 알고리즘 개발(Template matching, color 고려, warping 등)
+- 성과 : 
 
 10. 프로젝트 이름 찾기(Honda) - 24.10 ~ 24.12
-- 
-- text -> 3D model, 3D model + text => 수정된 3D model
+- 목표 : 
+- 역할 : (핵심 개발자, 40% contribution)text -> 3D model, 3D model + text => 수정된 3D model
+- 성과 : 
 
 11. 주행 사고 vlm(subaru) - 24.11. 25.01
-- 핵심 개발자 (40% contribution)
-- 시퀀스 이미지를 받아서 주행도중에 위험한 순간 주의를 하는 vlm 개발
+- 목표 :
+- 역할 : (핵심 개발자, 40% contribution)
+- 성과 : 시퀀스 이미지를 받아서 주행도중에 위험한 순간 주의를 하는 vlm 개발
 
 12. 구강암 검출 알고리즘 개발 - 24.11 ~ 24.12
-- 핵심 개발자 (80% contribution)
-- 정상 / 양성구강암 / 음성구강암을 segmentation 하는 알고리즘 개발
-
+- 목표 : 기존 모델보다 뛰어난 구강암 검출 및 segmentation 하는 알고리즘 개발
+- 역할 : (핵심 개발자, 80% contribution)
+- 성과 : 정상 / 양성구강암 / 음성구강암을 segmentation 하는 알고리즘 개발
   
 </details>
 
