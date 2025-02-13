@@ -16,7 +16,7 @@
 - 👇 I have experience collaborating with companies here !!! **About 2D/3D Object Detection, 3D Reconstruction(Bundle Adjustment, Pose Graph Optimization), On-board(memory & time optimization), Camera Calibration(using 1D/2D chessboard), AI ethics, AI module performance improvement in specific environment ...**
 <a href="https://www.hyundai.com/" target="_blank" rel="noreferrer">
   <img src="imgs/hyundai_motor_company.png" alt="Hyundai Motor Company" width="80" height="40"/>
-</a> <a href="https://www.keti.re.kr/main/main.php" target="_blank" rel="noreferrer"> <img src="imgs/keti.png" alt="KETI" width="100" height="40"/> </a> <a href="https://www.etri.re.kr/intro.html" target="_blank" rel="noreferrer"> <img src="imgs/etri.png" alt="ETRI" width="120" height="40"/> </a> <a href="https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp" target="_blank" rel="noreferrer"> <img src="imgs/ministry_of_national_defense.png" alt="Ministry of National Defense" width="50" height="40"/> </a> <a href="https://www.army.mil.kr/sites/army/index.do" target="_blank" rel="noreferrer"> <img src="imgs/headquarters.png" alt="ROKA Headquarters Insignia" width="50" height="40"/> </a> <a href="https://www.defense.gov/" target="_blank" rel="noreferrer"> <img src="imgs/us_dod.png" alt="U.S Department of Defense logo" width="40" height="40"/> </a> <a href="https://www.hdksoe.co.kr/" target="_blank" rel="noreferrer"> <img src="imgs/hd_shipping.png" alt="HD Korea shipbuilding & Offshore Engineering" width="180" height="40"/> </a> <a href="https://www.huvitz.com/" target="_blank" rel="noreferrer"> <img src="imgs/huvitz.png" alt="Huvitz logo" width="120" height="40"/> </a> <a href="https://www.honda.co.jp/" target="_blank" rel="noreferrer"> <img src="imgs/honda.png" alt="honda logo" width="40" height="40"/> </a> <a href="https://www.subaru.com/" target="_blank" rel="noreferrer"> <img src="imgs/subaru.png" alt="subaru logo" width="40" height="40"/> </a> <a href="https://www.elith.co.jp/" target="_blank" rel="noreferrer"> <img src="imgs/elith.png" alt="eligh logo" width="120" height="40"/> </a>
+</a> <a href="https://www.keti.re.kr/main/main.php" target="_blank" rel="noreferrer"> <img src="imgs/keti.png" alt="KETI" width="100" height="40"/> </a> <a href="https://www.etri.re.kr/intro.html" target="_blank" rel="noreferrer"> <img src="imgs/etri.png" alt="ETRI" width="120" height="40"/> </a> <a href="https://www.mnd.go.kr/mbshome/mbs/mnd/index.jsp" target="_blank" rel="noreferrer"> <img src="imgs/ministry_of_national_defense.png" alt="Ministry of National Defense" width="50" height="40"/> </a> <a href="https://www.army.mil.kr/sites/army/index.do" target="_blank" rel="noreferrer"> <img src="imgs/headquarters.png" alt="ROKA Headquarters Insignia" width="50" height="40"/> </a> <a href="https://www.defense.gov/" target="_blank" rel="noreferrer"> <img src="imgs/us_dod.png" alt="U.S Department of Defense logo" width="40" height="40"/> </a> <a href="https://www.hdksoe.co.kr/" target="_blank" rel="noreferrer"> <img src="imgs/hd_shipping.png" alt="HD Korea shipbuilding & Offshore Engineering" width="180" height="40"/> </a> <a href="https://www.huvitz.com/" target="_blank" rel="noreferrer"> <img src="imgs/huvitz.png" alt="Huvitz logo" width="120" height="40"/> </a> 
 
 
 <details>
@@ -82,21 +82,6 @@
 - 목표 : 
 - 역할 : 추가적인 2D 알약 검출 알고리즘 학습없이 알약을 검출하고 어떠한 알약인지 인식하는 알고리즘 개발(Template matching, color 고려, warping 등)
 - 성과 : 
-
-10. 프로젝트 이름 찾기(Honda) - 24.10 ~ 24.12
-- 목표 : 
-- 역할 : (핵심 개발자, 40% contribution)text -> 3D model, 3D model + text => 수정된 3D model
-- 성과 : 
-
-11. 주행 사고 vlm(subaru) - 24.11. 25.01
-- 목표 :
-- 역할 : (핵심 개발자, 40% contribution)
-- 성과 : 시퀀스 이미지를 받아서 주행도중에 위험한 순간 주의를 하는 vlm 개발
-
-12. 구강암 검출 알고리즘 개발 - 24.11 ~ 24.12
-- 목표 : 기존 모델보다 뛰어난 구강암 검출 및 segmentation 하는 알고리즘 개발
-- 역할 : (핵심 개발자, 80% contribution)
-- 성과 : 정상 / 양성구강암 / 음성구강암을 segmentation 하는 알고리즘 개발
   
 </details>
 
